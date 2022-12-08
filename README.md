@@ -12,11 +12,14 @@ The backend was developed in node.js and express.js and kept the information in 
 
 Screenshots of the project: 
 
-Landing page for Entrepreneurs
+Landing page for Entrepreneurs:
+
 ![1st](https://user-images.githubusercontent.com/62853703/206478033-6d0a2e40-fc8e-4ca2-8a84-c8c9564c262f.png)
 
-Adding pitch
+Adding pitch:
+
 ![4](https://user-images.githubusercontent.com/62853703/206478115-fcd5d158-96bf-4c4b-80de-2ee989b06f7d.png)
 
-Landing page for Investoirs
+Landing page for Investoirs:
+
 ![3](https://user-images.githubusercontent.com/62853703/206478248-fd976ca4-d79d-413c-a53a-6ee23175440f.png)
