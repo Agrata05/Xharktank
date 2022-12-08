@@ -2,9 +2,11 @@
 The panel of potential investors, who listen to entrepreneurs pitch ideas for a business or product they wish to develop. These self-made multi-millionaires judge the business concepts and products pitched and then decide whether to invest their own money to help market and mentor each contestant.
 
 What it does:
+
 Aim to build a Backend of XharkTank where budding entrepreneurs can pitch ideas for a business or product they wish to develop by providing their name, title & idea for the business, the investment amount they expect to be fulfilled, and the percentage of equity they are ready to shed away to the potential investors. Investors must be able to retrieve the list of all pitches and share their feedback/comments with a counter offer as per their interests.
 
 How it is built it:
+
 The frontend was implemented by Crio.do team.
 The backend was developed in node.js and express.js and kept the information in a MongoDB.
 
