@@ -25,7 +25,7 @@ The backend was developed using <a href="http://nodejs.org" target="_blank">Node
 
 ![3](https://user-images.githubusercontent.com/62853703/206478248-fd976ca4-d79d-413c-a53a-6ee23175440f.png)
 
-# Installation
+## Installation
 1. Clone repository:
 ```bash
 $ git clone https://github.com/Agrata05/Xharktank.git
@@ -42,7 +42,7 @@ $ npm i
 ```bash
 npm start
 ```
-### **Note**: cd ./FrontEnd and cd ./Backend, then proceed to step 2.
+#### **Note**: cd ./FrontEnd and cd ./Backend, then proceed to step 2.
 
 ## Stay In Touch
 
