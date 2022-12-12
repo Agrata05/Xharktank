@@ -2,8 +2,22 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
-    "mongoose": "^6.8.0",
+    "mongoose": "^6.7.3",
     "nodemon": "^2.0.20",
     "pm2": "^5.2.2"
-  }
+  },
+  "name": "xharktank",
+  "description": "Project Name : XHARKTANK",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Agrata05/Xharktank.git"
+  },
+  "author": "Agrata Tiwari",
+  "license": "ISC"
 }
