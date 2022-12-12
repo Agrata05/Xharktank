@@ -13,7 +13,7 @@ The backend was developed using <a href="http://nodejs.org" target="_blank">Node
 
 ## Screenshots Of The Project
 
-### Landing page for Entrepreneurs
+### Landing Page For Entrepreneurs
 
 ![1st](https://user-images.githubusercontent.com/62853703/206478033-6d0a2e40-fc8e-4ca2-8a84-c8c9564c262f.png)
 
