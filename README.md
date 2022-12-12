@@ -8,7 +8,7 @@ Aim to build a Backend of XharkTank where budding entrepreneurs can pitch ideas 
 
 ## How It Is Built
 
-The frontend was implemented by Crio.do team.
+The frontend was implemented by  <a href="https://www.crio.do/" target="_blank">Crio.do team.</a> 
 The backend was developed using <a href="http://nodejs.org" target="_blank">Node.js</a> and <a href="https://expressjs.com/" target="_blank">Express.js</a> and the information is stored in <a href="https://www.mongodb.com/" target="_blank">MongoDB</a>.
 
 ## Screenshots Of The Project
