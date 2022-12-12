@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const mongoose = require("mongoose")
 const cors = require('cors')
-const PORT = 8081
+const process.env.PORT || 8081
 const routes = require("./routes/routes.js");
 
 // To remove the CORS error
