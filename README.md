@@ -47,6 +47,7 @@ npm start
 ## Stay In Touch
 
 * Author - [Agrata Tiwari](https://www.linkedin.com/in/agrata-tiwari-0511/) & [Crio.do](https://www.crio.do/)
-* Website - [https://Xharktank.com](https://Xharktank.com/)
+* For adding Pitch - [https://Xharktank.com/addPitch](http://xharktank.crio.do/pitches/?author=agrata1932003-akgec-ac&url=https%3A%2F%2Fxharktank-production.up.railway.app%2F)
+* For investing in Pitch - [https://Xharktank.com/counterOffer](http://xharktank.crio.do/invest/?author=agrata1932003-akgec-ac&url=https%3A%2F%2Fxharktank-production.up.railway.app%2F)
 * YouTube - [Crio-Xharktank](https://youtu.be/3SAK3iPphJY)
 
