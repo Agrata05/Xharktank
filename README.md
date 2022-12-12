@@ -25,6 +25,25 @@ The backend was developed using <a href="http://nodejs.org" target="_blank">Node
 
 ![3](https://user-images.githubusercontent.com/62853703/206478248-fd976ca4-d79d-413c-a53a-6ee23175440f.png)
 
+# Installation
+1. Clone repository:
+```bash
+$ git clone https://github.com/Agrata05/Xharktank.git
+```
+
+2. Install dependencies:
+
+```bash
+$ npm i
+```
+3. Open `.env` and edit config, if it's necessary.(Put your atlas uri in backend)
+
+4. Run example:
+```bash
+npm start
+```
+### **Note**: cd ./FrontEnd and cd ./Backend, then proceed to step 2.
+
 ## Stay In Touch
 
 * Author - [Agrata Tiwari](https://www.linkedin.com/in/agrata-tiwari-0511/) & [Crio.do](https://www.crio.do/)
