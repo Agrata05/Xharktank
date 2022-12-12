@@ -1,41 +1,42 @@
-var mongoose = require('mongoose')
-const { stringify } = require('querystring')
+var mongoose = require("mongoose");
 
-const pitch = new mongoose.Schema ({
-    entreprenuer : {
+const pitch = new mongoose.Schema({
+    entrepreneur:{
         type : String,
         require : true,
     },
-    pitchTitle : {
+    pitchTitle:{        
+        type : String,
+        require : true
+    },
+    pitchIdea: {
         type : String,
         require : true,
     },
-    pitchIdea : {
-        type : String,
-        require : true,
-    },
-    askAmount : {
+    askAmount:{
         type : Number,
         require : true,
     },
-    askAmount : {
+    equity:{
         type : Number,
         require : true,
     },
-    offer : [{
-        type : mongoose.Schema.Types.ObjectId,
-        ref : "offer",
+    offers:[{
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "offer",
     }]
-},{ timestamps: true })
+},{ timestamps: true });
 
 pitch.virtual('id').get(function(){
     return this._id.toHexString();
 });
 
+// Ensure virtual fields are serialised.
 pitch.set('toJSON', {
     virtuals: true,
     versionKey:false,
     transform: function (doc, ret) {   delete ret._id  }
   });
+
 
 module.exports = mongoose.model("pitch",pitch);
