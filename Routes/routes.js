@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const controller = require("../controllers/controllers");
+const controller = require("../controller/controller");
 
 router.get('/pitches',controller.allPitches);
 router.get('/pitches/:pitchId',controller.findPitch);
