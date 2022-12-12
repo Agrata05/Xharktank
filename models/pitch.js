@@ -15,11 +15,11 @@ const pitch = new mongoose.Schema ({
         require : true,
     },
     askAmount : {
-        type : number,
+        type : Number,
         require : true,
     },
     askAmount : {
-        type : number,
+        type : Number,
         require : true,
     },
     offer : [{
