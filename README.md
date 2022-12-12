@@ -8,19 +8,19 @@ Aim to build a Backend of XharkTank where budding entrepreneurs can pitch ideas 
 ## How It Is Built
 
 The frontend was implemented by Crio.do team.
-The backend was developed using <a href="http://nodejs.org" target="_blank">Node.js</a> and <a href="https://expressjs.com/" target="_blank">Express.js</a> and the information is stored in <a href="<a href="http://nodejs.org" target="_blank">Node.js</a>" target="_blank">MongoDB</a>.
+The backend was developed using <a href="http://nodejs.org" target="_blank">Node.js</a> and <a href="https://expressjs.com/" target="_blank">Express.js</a> and the information is stored in <a href="https://www.mongodb.com/" target="_blank">MongoDB</a>.
 
 ## Screenshots Of The Project
 
-#### Landing page for Entrepreneurs
+### Landing page for Entrepreneurs
 
 ![1st](https://user-images.githubusercontent.com/62853703/206478033-6d0a2e40-fc8e-4ca2-8a84-c8c9564c262f.png)
 
-#### Adding Pitch
+### Adding Pitch
 
 ![4](https://user-images.githubusercontent.com/62853703/206478115-fcd5d158-96bf-4c4b-80de-2ee989b06f7d.png)
 
-#### Landing Page For Investors
+### Landing Page For Investors
 
 ![3](https://user-images.githubusercontent.com/62853703/206478248-fd976ca4-d79d-413c-a53a-6ee23175440f.png)
 
