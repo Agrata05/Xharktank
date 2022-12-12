@@ -1,5 +1,5 @@
-const Pitch = require('../models/Pitch')
-const Offer = require('../models/Offer');
+const Pitch = require('../models/pitch')
+const Offer = require('../models/offer');
 var mongoose = require('mongoose');
 
 // Task 1
